@@ -1,14 +1,8 @@
 # Simple-Day-Planner
 
+## Description and Usage
 
-
-## Description
-
-
-## Usage
-Just open the page and press the 'Start Quiz' button to start the quiz and you will have 30 seconds to answer 5 questions with time decreasing when answering wrong. At the end put your initials in and press submit to save your score. If you like, refresh and try again to get a better score! :)
-
-
+This is a simply day planner that can be edited and saved for the full workday. Just type in your activity or event at the corresponding time and click save and you are ready to go!git  
 
 ## Link to my github account: 
 
