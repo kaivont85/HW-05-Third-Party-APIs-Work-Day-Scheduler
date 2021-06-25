@@ -11,5 +11,5 @@ https://github.com/kaivont85/Simple-Day-Planner
 
 ## Screenshot of Deployed Website
 
-![my sample screenshot](/Simple-Day-Planner/images/main-page.png)  
-![my sample screenshot](/Simple-Day-Planner/images/filling-in-times.png)  
+![my sample screenshot](./assets/images/main-page.png)  
+![my sample screenshot](./assets/images/filling-in-times.png)  
